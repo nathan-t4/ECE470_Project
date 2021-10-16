@@ -1,4 +1,4 @@
-# ECE470_Project
+# ECE470 Project
 Copy hokuyo_test2.world to ~/catkin_netID/src/drivers/ur3_driver/worlds
 Copy project2.launch to ~/catkin_netID/scr/drivers/ur3_driver/launch
 
