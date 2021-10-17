@@ -1,8 +1,8 @@
 # ECE470 Project Update 1
 To move the UR3 robot and access data from the Hokuyo sensor, add the following from the *src* folder to the local catkin_ws/src  folder:
-  Copy hokuyo_test2.world to ~/catkin_netID/src/drivers/ur3_driver/worlds
-  Copy project2.launch to ~/catkin_netID/scr/drivers/ur3_driver/launch
-  Copy package/folder project_py to ~/catkin_ws/src
+  * Copy hokuyo_test2.world to `<addr>`~/catkin_netID/src/drivers/ur3_driver/worlds
+  * Copy project2.launch to `<addr>`~/catkin_netID/scr/drivers/ur3_driver/launch
+  * Copy package/folder project_py to `<addr>`~/catkin_ws/src
   
 To run, open the terminal and type:
   ~/cd catkin_netID
