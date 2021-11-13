@@ -13,7 +13,7 @@ To run, open the terminal and type:
 Open another terminal to run project_exec.py:
   * `~/cd catkin_netID`
   * `~/source devel/setup.bash`
-  * `~/rosrun project_py project_exec.py [theta1] [theta2] [theta3] [theta4] [theta5] [theta6]`
+  * `~/rosrun project_py project_exec.py`
 
 With data from the Hokuyo sensor, forward kinematics, and inverse kinematics, `project_exec.py` will move the UR3 to the location of the big green block.
 
