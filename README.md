@@ -3,7 +3,7 @@ To move the UR3 robot and access data from the Hokuyo sensor, add the following 
   * Copy hokuyo_test2.world to `~/catkin_netID/src/drivers/ur3_driver/worlds`
   * Copy project.launch to `~/catkin_netID/scr/drivers/ur3_driver/launch`
   * Copy package/folder project_py to `~/catkin_ws/src`
-  * Copy block_big_green.urdf to '~/catkin_ws/src/drivers/universal_robot/ur_description_urdf'
+  * Copy block_big_green.urdf & elevate_plate.urdf to `~/catkin_ws/src/drivers/universal_robot/ur_description_urdf`
   
 To run, open the terminal and type:
   * `~/cd catkin_netID`
