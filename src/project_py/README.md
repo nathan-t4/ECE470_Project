@@ -8,4 +8,5 @@
 ## Terminal 2
 - Switch to your catkin directory
 - `$ source devel/setup.bash`
-- `$ rosrun project_py project_exec.py`
+- To pick up blocks 3, 1, and 2 in order:
+- `$ rosrun project_py project_exec.py --block 3 1 2`
