@@ -1,0 +1,6 @@
+block_yellow_positions:
+- [0.2, 0.15]
+block_green_positions:
+- [0.2, -0.05]
+block_red_positions:
+- [0.2, 0.35]
